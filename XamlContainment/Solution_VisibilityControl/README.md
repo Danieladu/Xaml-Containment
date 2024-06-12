@@ -1,0 +1,1 @@
+It's very easy to use and inject! The bad is that each variable can only apply to two cases.
