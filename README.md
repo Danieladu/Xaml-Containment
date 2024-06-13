@@ -13,5 +13,6 @@ Some samples for the containment of xaml file
 - Solution_PureCode -> Pure cpp code solution
 - Solution_StateTrigger_XAML -> StateTrigger solution with almost xaml change
 - Solution_StateTrigger_CPP -> StateTrigger solution with cpp code control
+- Solution_ControlTemplate -> Using ControlTemplate to select each template to render
 - Solution_VisibilityControl -> Control the visibility property to control the UI
 - Solution_DataTemplateSelector_ContentControl -> Using DateTemplateSelector to fill in the button content
